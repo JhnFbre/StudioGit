@@ -1351,6 +1351,7 @@ int string fab_transformation_scrim_behavior 0x7f0e002d
 int string fab_transformation_sheet_behavior 0x7f0e002e
 int string hide_bottom_view_on_scroll_behavior 0x7f0e002f
 int string mtrl_chip_close_icon_content_description 0x7f0e0030
+int string name 0x7f0e0031
 int string password_toggle_content_description 0x7f0e0032
 int string path_password_eye 0x7f0e0033
 int string path_password_eye_mask_strike_through 0x7f0e0034

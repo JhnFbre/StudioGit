@@ -1,6 +1,7 @@
 <resources>
     <string name="app_name">Taller Android</string>
     <string name="action_settings">Settings</string>
-    <string name="welcome">Walther Fabre
+    <string name="name">Walther Fabre</string>
+    <string name="welcome">Hello
     </string>
 </resources>
