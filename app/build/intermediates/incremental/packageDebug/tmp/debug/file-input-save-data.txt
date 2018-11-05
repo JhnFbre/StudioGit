@@ -1,5 +1,5 @@
 #Internal package file, do not edit.
-#Mon Nov 05 04:48:09 ECT 2018
+#Mon Nov 05 05:43:57 ECT 2018
 0.baseType=DIRECTORY
 0.base=/home/redes/AndroidStudioProjects/MyApplication/app/build/intermediates/transforms/dexMerger/debug/0
 0.path=classes.dex
